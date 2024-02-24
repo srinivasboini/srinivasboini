@@ -39,6 +39,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,aws,azure,kafka,html,css,vscode,github,idea,gitlab,git" />
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,typescript,javascript,postgres,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,typescript,javascript,postgres,mysql,gradle,maven,postman" /><br>
 </div>
 
