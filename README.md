@@ -14,6 +14,8 @@
  
  🌱 I’m currently learning **Kubernetes, Azure**
 
+ ⚡ I'm certified in **AWS Solution Architect Associate (AWS SAA-C01/C03) and Oracle Certified Associate**
+
 💬 Ask me about **Java, AWS, Spring, Kafka... or anything [here](https://github.com/srinivasboini/srinivasboini/issues)**
 
 
